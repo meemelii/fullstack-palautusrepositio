@@ -1,1 +1,1 @@
-Tämä repositio on fullstack-kurssia varten tehty palauturepositio.
+Tämä repositio on fullstack-kurssia varten tehty palautusrepositio.
